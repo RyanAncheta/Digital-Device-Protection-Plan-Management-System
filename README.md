@@ -63,31 +63,31 @@ The system enforces the protection plan rules, including the three-claim limit o
 src/main/
 
 
-  java/
+  &ensp;java/
 
   
-  controller/
+  &emsp;controller/
 
   
-  dao/
+  &emsp;dao/
 
   
-  model/
+  &emsp;model/
 
   
-webapp/
+ &ensp;webapp/
 
 
-  WEB-INF/
-
-  
-  css/
+  &emsp;WEB-INF/
 
   
-  images/
+  &emsp;css/
 
   
-  jsp/
+  &emsp;images/
+
+  
+  &emsp;jsp/
 
 ## Getting Started
 
