@@ -61,14 +61,32 @@ The system enforces the protection plan rules, including the three-claim limit o
 
 ## Project Structure
 src/main/
+
+
   java/
+
+  
   controller/
+
+  
   dao/
+
+  
   model/
+
+  
 webapp/
+
+
   WEB-INF/
+
+  
   css/
+
+  
   images/
+
+  
   jsp/
 
 ## Getting Started
