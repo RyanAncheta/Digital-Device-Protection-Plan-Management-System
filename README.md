@@ -66,28 +66,28 @@ src/main/
   &ensp;java/
 
   
-  &emsp;controller/
+  &emsp;&emsp;controller/
 
   
-  &emsp;dao/
+  &emsp;&emsp;dao/
 
   
-  &emsp;model/
+  &emsp;&emsp;model/
 
   
  &ensp;webapp/
 
 
-  &emsp;WEB-INF/
+  &emsp;&emsp;WEB-INF/
 
   
-  &emsp;css/
+  &emsp;&emsp;css/
 
   
-  &emsp;images/
+  &emsp;&emsp;images/
 
   
-  &emsp;jsp/
+  &emsp;&emsp;jsp/
 
 ## Getting Started
 
