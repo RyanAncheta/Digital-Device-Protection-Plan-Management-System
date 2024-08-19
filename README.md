@@ -10,37 +10,37 @@ The **Digital Device Protection Plan Management System** is a Java-based web app
 Secure user authentication and registration process.
 
 ![User Registration Screenshot](images/user_registration.png)  
-*Placeholder for User Registration Screenshot*
+
 
 ### 2. Device Registration
 Users can register their devices to be covered under the protection plan.
 
 ![Device Registration Screenshot](images/device_registration.png)  
-*Placeholder for Device Registration Screenshot*
+
 
 ### 3. Claim Submission
 Users can submit claims for device repair or replacement.
 
 ![Claim Submission Screenshot](images/claim_submission.png)  
-*Placeholder for Claim Submission Screenshot*
+
 
 ### 4. Claim Management
 Admins can approve or reject claims, and users can view the status of their claims.
 
 ![Claim Management Screenshot](images/claim_management.png)  
-*Placeholder for Claim Management Screenshot*
+
 
 ### 5. Notifications
 Users receive notifications regarding the status of their claims.
 
 ![Notifications Screenshot](images/notifications.png)  
-*Placeholder for Notifications Screenshot*
+
 
 ### 6. Protection Plan Enforcement
 The system enforces the protection plan rules, including the three-claim limit over five years.
 
 ![Protection Plan Enforcement Screenshot](images/protection_plan_enforcement.png)  
-*Placeholder for Protection Plan Enforcement Screenshot*
+
 
 ## Security Features
 
@@ -90,15 +90,15 @@ webapp/
 
 ### Dashboard
 ![Dashboard Screenshot](images/dashboard.png)  
-*Placeholder for Dashboard Screenshot*
+
 
 ### Claim Submission
 ![Claim Submission Screenshot](images/claim_submission.png)  
-*Placeholder for Claim Submission Screenshot*
+
 
 ### Admin Claims and Device Management
-![Admin Claim Management Screenshot](images/admin_claim_management.png)  
-*Placeholder for Admin Claim Management Screenshot*
+![Admin Claim Management Screenshot](images/admin_claim_management..png)  
+
 
 ## Future Enhancements
 
