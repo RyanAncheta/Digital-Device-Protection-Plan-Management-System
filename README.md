@@ -96,7 +96,7 @@ webapp/
 ![Claim Submission Screenshot](images/claim_submission.png)  
 *Placeholder for Claim Submission Screenshot*
 
-### Admin Claim Management
+### Admin Claims and Device Management
 ![Admin Claim Management Screenshot](images/admin_claim_management.png)  
 *Placeholder for Admin Claim Management Screenshot*
 
