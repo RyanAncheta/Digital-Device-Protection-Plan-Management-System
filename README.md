@@ -46,6 +46,7 @@ The system enforces the protection plan rules, including the three-claim limit o
 
 - **Session Management**: Ensures that users and admins are properly authenticated. Sessions are invalidated on logout to prevent unauthorized access.
 - **Input Validation**: All user inputs are validated on both the client and server sides to prevent SQL injection and other malicious inputs.
+- **Admin Account Creation Protection**: Only authorized personnel can create admin accounts by requiring a secure token, which is stored in a server environment variable. This token must be provided during the admin registration process to prevent ordinary users from creating admin accounts.
 - **Role-Based Access Control**: Differentiates between admin and user roles to restrict access to admin functionalities.
 - **SQL Injection Prevention**: Prepared statements are used for all database queries to protect against SQL injection attacks.
 
